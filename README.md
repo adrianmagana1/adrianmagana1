@@ -19,5 +19,5 @@ public class Adrian
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,heroku,github,figma&theme=dark)](https://skillicons.dev)
 
-![](https://leetcard.adrianmagana/leetcode?site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/adrianmagana)
 
