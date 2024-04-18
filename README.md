@@ -11,7 +11,7 @@ public class Adrian extends humanBeing {
     String homeTown = "Redwood City, CA";
     String school = "UC Berkeley";
     int expGraduation = May 2026;
-    Resume resume = new Resume("pdf");
+    Resume resume = new Resume("[pdf](./IMG_7211.jpeg)");
     String[] interestAreas = new String[] {
       "full stack",
       "data science",
