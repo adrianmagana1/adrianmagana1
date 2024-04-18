@@ -19,10 +19,6 @@ public class Adrian extends humanBeing {
   }
   public static void contact() {
     Email email = new Email("adrianmagana@berkeley.edu");
-    String[] links = new String[] {
-      "LinkedIn"
-      [I'm an inline-style link](https://www.google.com)
-    }
   }
 }
 ```
