@@ -11,7 +11,6 @@ public class Adrian extends humanBeing {
     String homeTown = "Redwood City, CA";
     String school = "UC Berkeley";
     int expGraduation = May 2026;
-    Resume resume = new Resume("[pdf](./IMG_7211.jpeg)");
     String[] interestAreas = new String[] {
       "full stack",
       "data science",
@@ -22,6 +21,7 @@ public class Adrian extends humanBeing {
     Email email = new Email("adrianmagana@berkeley.edu");
     String[] links = new String[] {
       "LinkedIn"
+      [I'm an inline-style link](https://www.google.com)
     }
   }
 }
