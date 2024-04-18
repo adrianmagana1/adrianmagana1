@@ -13,9 +13,9 @@ public class Adrian extends humanBeing {
     String school = "UC Berkeley";
     int expGraduation = May 2026;
     String[] interestAreas = new String[] {
-      "full stack",
-      "data science",
-      "machine learning"
+      "Full Stack",
+      "Data Science",
+      "Machine Learning"
     }
   }
   public static void contact() {
