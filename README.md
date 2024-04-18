@@ -32,8 +32,5 @@ public class Adrian extends humanBeing {
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,heroku,github,figma&theme=dark)](https://skillicons.dev)
-
-# LeetCode Stats :)
-![LeetCode Stats](https://leetcard.jacoblin.cool/adrianmagana)
+[![Tools](https://skillicons.dev/icons?i=vscode,github,postman,heroku,figma,vercel,npm&theme=dark)](https://skillicons.dev)
 
