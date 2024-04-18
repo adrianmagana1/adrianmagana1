@@ -1,6 +1,6 @@
 # Hi! My name is Adrian!
 
-# :standing_person: About Me
+# :standing_person: About Me!
 
 ```java
 package aboutMe;
@@ -27,7 +27,7 @@ public class Adrian extends humanBeing {
 }
 ```
 
-# :computer: Tech Stack
+# :computer: Tech Stack!
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp&theme=dark)](https://skillicons.dev)
