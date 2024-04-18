@@ -3,12 +3,27 @@
 # :postbox: About Me
 
 ```java
-public class Adrian
-{
-  private int age = 20;
-  public String[] edu = new String[] { "UC Berkeley" };
-  public String[] major = new String[] { "Data Science", "Computer Science" };
-  public String[] interest = new String[] { "Full Stack", "Data Science", "Machine Learning" };
+package aboutMe;
+
+public class Adrian extends humanBeing {
+  public Adrian() {
+    String fullName = "Adrian Magaña";
+    String homeTown = "Redwood City, CA";
+    String school = "UC Berkeley";
+    int expGraduation = May 2026;
+    Resume resume = new Resume("pdf");
+    String[] interestAreas = new String[] {
+      "full stack",
+      "data science",
+      "machine learning"
+    }
+  }
+  public static void contact() {
+    Email email = new Email("adrianmagana@berkeley.edu");
+    String[] links = new String[] {
+      "LinkedIn"
+    }
+  }
 }
 ```
 
