@@ -9,7 +9,7 @@ public class Adrian extends humanBeing {
     String fullName = "Adrian Magaña";
     String homeTown = "Redwood City, CA";
     String school = "UC Berkeley";
-    int expGraduation = May 2026;
+    int expGraduation = 2026;
     String[] interestAreas = new String[] {
       "Full Stack",
       "Data Science",
