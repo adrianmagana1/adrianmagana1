@@ -1,7 +1,7 @@
-## Hi! My name is Adrian.
+## Hi!
 
 # :standing_person: About Me!
-My name is Adrian and I am a Data Science and Computer Science student!
+My name is Adrian and I am a Data Science student @ UC Berkeley!
 
 ```java
 package aboutMe;
