@@ -1,4 +1,4 @@
-# :laptop: About Me!
+# :computer: About Me!
 Hi! My name is Adrian and I am a Data Science student @ UC Berkeley!
 
 ```java
