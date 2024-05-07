@@ -1,5 +1,4 @@
-# :computer: About Me!
-Hi! My name is Adrian and I am a Data Science student @ UC Berkeley!
+### Hi! My name is Adrian and I am a Data Science student @ UC Berkeley!
 
 ```java
 package aboutMe;
@@ -22,3 +21,4 @@ public class Adrian extends humanBeing {
   }
 }
 ```
+- 💻 Learn more about my projects at ...
