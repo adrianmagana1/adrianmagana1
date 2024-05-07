@@ -14,8 +14,9 @@ public class Adrian extends humanBeing {
       "Full Stack",
       "Data Science",
       "Machine Learning"
-    }
+    };
   }
+
   public static void contact() {
     Email email = new Email("adrianmagana@berkeley.edu");
   }
