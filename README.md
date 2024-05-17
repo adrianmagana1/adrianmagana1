@@ -10,9 +10,9 @@ public class Adrian extends humanBeing {
     String school = "UC Berkeley";
     int expGraduation = 2026;
     String[] interestAreas = new String[] {
-      "Full Stack",
-      "Data Science",
-      "Machine Learning"
+      "Backend Engineering",
+      "Machine Learning",
+      "Data Science"
     };
   }
 
