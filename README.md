@@ -21,4 +21,3 @@ public class Adrian extends humanBeing {
   }
 }
 ```
-### 💻 Learn more about my projects at ...
